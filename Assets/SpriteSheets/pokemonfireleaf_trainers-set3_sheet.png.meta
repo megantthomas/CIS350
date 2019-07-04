@@ -1,0 +1,453 @@
+fileFormatVersion: 2
+guid: ec93f38459283af43bf7443e367961ff
+timeCreated: 1523585505
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: pokemonfireleaf_trainers-set3_sheet_0
+    21300002: pokemonfireleaf_trainers-set3_sheet_1
+    21300004: pokemonfireleaf_trainers-set3_sheet_2
+    21300006: pokemonfireleaf_trainers-set3_sheet_3
+    21300008: pokemonfireleaf_trainers-set3_sheet_4
+    21300010: pokemonfireleaf_trainers-set3_sheet_5
+    21300012: pokemonfireleaf_trainers-set3_sheet_6
+    21300014: pokemonfireleaf_trainers-set3_sheet_7
+    21300016: pokemonfireleaf_trainers-set3_sheet_8
+    21300018: pokemonfireleaf_trainers-set3_sheet_9
+    21300020: pokemonfireleaf_trainers-set3_sheet_10
+    21300022: pokemonfireleaf_trainers-set3_sheet_11
+    21300024: pokemonfireleaf_trainers-set3_sheet_12
+    21300026: pokemonfireleaf_trainers-set3_sheet_13
+    21300028: pokemonfireleaf_trainers-set3_sheet_14
+    21300030: pokemonfireleaf_trainers-set3_sheet_15
+    21300032: pokemonfireleaf_trainers-set3_sheet_16
+    21300034: pokemonfireleaf_trainers-set3_sheet_17
+    21300036: pokemonfireleaf_trainers-set3_sheet_18
+    21300038: pokemonfireleaf_trainers-set3_sheet_19
+    21300040: pokemonfireleaf_trainers-set3_sheet_20
+    21300042: pokemonfireleaf_trainers-set3_sheet_21
+    21300044: pokemonfireleaf_trainers-set3_sheet_22
+    21300046: pokemonfireleaf_trainers-set3_sheet_23
+    21300048: pokemonfireleaf_trainers-set3_sheet_24
+    21300050: pokemonfireleaf_trainers-set3_sheet_25
+    21300052: pokemonfireleaf_trainers-set3_sheet_26
+    21300054: pokemonfireleaf_trainers-set3_sheet_27
+    21300056: pokemonfireleaf_trainers-set3_sheet_28
+    21300058: pokemonfireleaf_trainers-set3_sheet_29
+    21300060: pokemonfireleaf_trainers-set3_sheet_30
+    21300062: pokemonfireleaf_trainers-set3_sheet_31
+    21300064: pokemonfireleaf_trainers-set3_sheet_32
+    21300066: pokemonfireleaf_trainers-set3_sheet_33
+    21300068: pokemonfireleaf_trainers-set3_sheet_34
+    21300070: Proffesor Science
+    21300072: pokemonfireleaf_trainers-set3_sheet_36
+    21300074: pokemonfireleaf_trainers-set3_sheet_37
+    21300076: pokemonfireleaf_trainers-set3_sheet_38
+    21300078: pokemonfireleaf_trainers-set3_sheet_39
+    21300080: pokemonfireleaf_trainers-set3_sheet_40
+    21300082: pokemonfireleaf_trainers-set3_sheet_41
+    21300084: pokemonfireleaf_trainers-set3_sheet_42
+    21300086: pokemonfireleaf_trainers-set3_sheet_43
+    21300088: pokemonfireleaf_trainers-set3_sheet_44
+    21300090: pokemonfireleaf_trainers-set3_sheet_45
+    21300092: pokemonfireleaf_trainers-set3_sheet_46
+    21300094: pokemonfireleaf_trainers-set3_sheet_47
+    21300096: pokemonfireleaf_trainers-set3_sheet_48
+    21300098: pokemonfireleaf_trainers-set3_sheet_49
+    21300100: pokemonfireleaf_trainers-set3_sheet_50
+    21300102: pokemonfireleaf_trainers-set3_sheet_51
+    21300104: pokemonfireleaf_trainers-set3_sheet_52
+    21300106: pokemonfireleaf_trainers-set3_sheet_53
+    21300108: pokemonfireleaf_trainers-set3_sheet_54
+    21300110: pokemonfireleaf_trainers-set3_sheet_55
+    21300112: pokemonfireleaf_trainers-set3_sheet_56
+    21300114: pokemonfireleaf_trainers-set3_sheet_57
+    21300116: pokemonfireleaf_trainers-set3_sheet_58
+    21300118: pokemonfireleaf_trainers-set3_sheet_59
+    21300120: pokemonfireleaf_trainers-set3_sheet_60
+    21300122: pokemonfireleaf_trainers-set3_sheet_61
+    21300124: pokemonfireleaf_trainers-set3_sheet_62
+    21300126: pokemonfireleaf_trainers-set3_sheet_63
+    21300128: pokemonfireleaf_trainers-set3_sheet_64
+    21300130: pokemonfireleaf_trainers-set3_sheet_65
+    21300132: pokemonfireleaf_trainers-set3_sheet_66
+    21300134: pokemonfireleaf_trainers-set3_sheet_67
+    21300136: pokemonfireleaf_trainers-set3_sheet_68
+    21300138: pokemonfireleaf_trainers-set3_sheet_69
+    21300140: pokemonfireleaf_trainers-set3_sheet_70
+    21300142: pokemonfireleaf_trainers-set3_sheet_71
+    21300144: pokemonfireleaf_trainers-set3_sheet_72
+    21300146: pokemonfireleaf_trainers-set3_sheet_73
+    21300148: pokemonfireleaf_trainers-set3_sheet_74
+    21300150: pokemonfireleaf_trainers-set3_sheet_75
+    21300152: pokemonfireleaf_trainers-set3_sheet_76
+    21300154: pokemonfireleaf_trainers-set3_sheet_77
+    21300156: pokemonfireleaf_trainers-set3_sheet_78
+    21300158: pokemonfireleaf_trainers-set3_sheet_79
+    21300160: pokemonfireleaf_trainers-set3_sheet_80
+    21300162: pokemonfireleaf_trainers-set3_sheet_81
+    21300164: pokemonfireleaf_trainers-set3_sheet_82
+    21300166: pokemonfireleaf_trainers-set3_sheet_83
+    21300168: pokemonfireleaf_trainers-set3_sheet_84
+    21300170: pokemonfireleaf_trainers-set3_sheet_85
+    21300172: pokemonfireleaf_trainers-set3_sheet_86
+    21300174: pokemonfireleaf_trainers-set3_sheet_87
+    21300176: pokemonfireleaf_trainers-set3_sheet_88
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pokemonfireleaf_trainers-set3_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 205
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemonfireleaf_trainers-set3_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 205
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemonfireleaf_trainers-set3_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 211
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemonfireleaf_trainers-set3_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 204
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemonfireleaf_trainers-set3_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 203
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemonfireleaf_trainers-set3_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 206
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemonfireleaf_trainers-set3_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 136
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemonfireleaf_trainers-set3_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 134
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemonfireleaf_trainers-set3_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 133
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemonfireleaf_trainers-set3_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 139
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemonfireleaf_trainers-set3_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 133
+        width: 29
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemonfireleaf_trainers-set3_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 135
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemonfireleaf_trainers-set3_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 64
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemonfireleaf_trainers-set3_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 64
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemonfireleaf_trainers-set3_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 67
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemonfireleaf_trainers-set3_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 71
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemonfireleaf_trainers-set3_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 63
+        width: 20
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemonfireleaf_trainers-set3_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 66
+        width: 61
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemonfireleaf_trainers-set3_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
